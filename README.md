@@ -1,4 +1,3 @@
-# Radon
 
 ## Scalable URL Shortner Project Requirement
 
